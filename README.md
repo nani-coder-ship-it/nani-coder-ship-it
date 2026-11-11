@@ -1,159 +1,166 @@
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nani-coder-ship-it&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
+<!-- ================= PROFILE HEADER ================= -->
 
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=750&lines=Vaigandla+Venkata+Naga+Vignesh;Aspiring+AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Exploring+LLMs%2C+RAG+%26+AI+Agents;Building+Projects+and+Learning+Daily" alt="Typing SVG"/>
-</p>
+<div align="center">
 
-<h2 align="center">🚀 About Me</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vignesh+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Exploring+LLMs%2C+RAG+%26+AI+Agents" alt="Typing Animation"/>
 
-<p align="center">
-  🎓 B.Tech CSE (AI & ML) Student<br/>
-  🤖 Aspiring AI & Machine Learning Engineer<br/>
-  💻 Full Stack Developer<br/>
-  🧠 Interested in Generative AI, LLMs, RAG and AI Agents<br/>
-  🌱 Continuously learning and building real-world applications
-</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=nani-coder-ship-it&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" alt="Visitors"/>
+  </p>
 
-- 🔭 Currently exploring AI-powered applications and automation.
-- 💡 Interested in Machine Learning, Deep Learning and Agentic AI.
-- 🛠️ Building practical software and AI projects.
-- 🎯 Goal: Build intelligent solutions that solve real-world problems.
+  <h3>Building Intelligent Applications | Learning | Innovating</h3>
+
+</div>
 
 ---
 
-<h2 align="center">🛠️ Technical Skills</h2>
+## 👨‍💻 About Me
 
-<h3>💻 Programming Languages</h3>
+- 🎓 B.Tech Computer Science Engineering (AI & ML)
+- 🤖 Aspiring AI and Machine Learning Engineer
+- 💻 Full Stack Developer
+- 🧠 Interested in LLMs, Generative AI, RAG and AI Agents
+- 🌱 Exploring Deep Learning and Agentic AI
+- 🚀 Passionate about building real-world applications
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart" />
 </p>
 
-<h3>🌐 Frontend Development</h3>
+### Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,angular,flutter" />
 </p>
 
-<h3>⚙️ Backend Development</h3>
+### Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase" />
 </p>
 
-<h3>🗄️ Databases</h3>
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-<h3>🤖 AI & Machine Learning</h3>
+### AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 <p>
-  <b>Exploring:</b> Generative AI | LLMs | RAG | AI Agents | Deep Learning | Machine Learning
+  <b>Exploring:</b> Machine Learning | Deep Learning | LLMs | RAG | AI Agents | Generative AI
 </p>
 
-<h3>🔧 Tools & Platforms</h3>
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,androidstudio" />
 </p>
 
-<h3>📚 Core Computer Science</h3>
+### Core Concepts
 
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- REST API Development
+`DSA` `OOP` `DBMS` `Operating Systems` `Computer Networks` `REST APIs`
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<h3>🛡️ SafeTour AI</h3>
-
+### 🛡️ SafeTour AI
 AI-powered tourist safety and intelligent route recommendation platform.
 
-- Graph Neural Networks for road safety prediction.
-- Dynamic geo-fencing and safety alerts.
-- Safe route recommendation.
-- Blockchain-based digital tourist identity.
+- Graph Neural Networks for road safety prediction
+- Dynamic geo-fencing and risk alerts
+- Safe route recommendations
+- Blockchain-based tourist identity
 
-**Technologies:** Python, Flask, Flutter, Node.js, MongoDB, GNN, Ethereum.
+**Tech:** Python, Flask, Flutter, Node.js, MongoDB, GNN, Ethereum
 
-<h3>🏘️ MyCommunityConnect</h3>
+### 🏘️ MyCommunityConnect
+Residential community management application.
 
-A residential community management application.
+- Real-time chat and notifications
+- Visitor management
+- Emergency assistance
+- Maintenance requests and announcements
 
-- Real-time community chat.
-- Visitor management and emergency assistance.
-- Maintenance requests and announcements.
-- Community directory and notifications.
+**Tech:** Flutter, Dart, Node.js, Express, MongoDB, Firebase, Socket.IO
 
-**Technologies:** Flutter, Dart, Node.js, Express.js, MongoDB, Firebase, Socket.IO.
-
-<h3>⚡ GridWise</h3>
-
+### ⚡ GridWise
 Smart EV charging scheduling and optimization platform.
 
-**Technologies:** Python, Machine Learning, Data Analytics.
+**Tech:** Python, Machine Learning, Data Analytics
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 Developer Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nani-coder-ship-it&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nani-coder-ship-it&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
 
----
+  <h3>📈 Profile Overview</h3>
 
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nani-coder-ship-it&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<h2 align="center">📈 Contribution Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nani-coder-ship-it&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake Animation</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nani-coder-ship-it/nani-coder-ship-it/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
   <a href="https://github.com/nani-coder-ship-it">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nani-coder-ship-it&theme=tokyonight&animation=rise" alt="Profile Contribution Overview"/>
   </a>
-  <a href="mailto:vigneshvaigandla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <br/><br/>
+
+  <h3>💻 Programming Statistics</h3>
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nani-coder-ship-it&theme=tokyonight&animation=rise" alt="Profile Statistics"/>
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nani-coder-ship-it&theme=tokyonight&animation=rise" alt="Repository Languages"/>
+
+  <br/><br/>
+
+  <h3>🔥 Contribution Streak</h3>
+
+  <a href="https://git.io/streak-stats">
+    <img width="75%" src="https://streak-stats.demolab.com?user=nani-coder-ship-it&theme=tokyonight&hide_border=true&border_radius=12" alt="Contribution Streak"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ "Always learning, always building, always improving."
-</p>
+## 🐍 Contribution Animation
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nani-coder-ship-it/nani-coder-ship-it/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nani-coder-ship-it/nani-coder-ship-it/output/github-contribution-grid-snake.svg"/>
+    <img width="100%" alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/nani-coder-ship-it/nani-coder-ship-it/output/github-contribution-grid-snake.svg"/>
+  </picture>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/vaigandla-venkata-naga-vignesh-231b65351/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:vigneshvaigandla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <h3>✨ Always Learning. Always Building. Always Growing.</h3>
+
+  <i>Thanks for visiting my profile!</i>
+
+</div>
